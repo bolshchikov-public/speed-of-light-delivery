@@ -13,9 +13,9 @@
         * [AngularJS](https://angularjs.org/)
     1. Continues Integration
         * Github
-        * Grunt
-        * Team City
-    1. Deployment
+        * [Grunt](http://gruntjs.com/) & [Wix Gruntfile](https://github.com/wix/wix-gruntfile)
+        * JetBrains' Team City
+    1. Deployment Lifecycle
         1. Snapshot
         2. Release Candidate
         3. Deploy to staging
