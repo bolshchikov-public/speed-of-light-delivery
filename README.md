@@ -23,6 +23,6 @@
 1. Monitoring
     * Performance w/ [New Relic](http://newrelic.com)
     * Business Intelligence
-1. Experiments - [Petri](http://github.com/wix/petri)
+1. [Petri](http://github.com/wix/petri) Experiments
     * [Feature Toggles](http://martinfowler.com/bliki/FeatureToggle.html)
     * A/B Tests
