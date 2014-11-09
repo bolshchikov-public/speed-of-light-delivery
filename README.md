@@ -31,3 +31,6 @@
         * Refactor
         * Cleaning
     * A/B Tests
+        * Consistency
+        * Analysis of results
+
