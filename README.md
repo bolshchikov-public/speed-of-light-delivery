@@ -27,4 +27,7 @@
     * Business Intelligence
 1. [Petri](http://github.com/wix/petri) Experiments
     * [Feature Toggles](http://martinfowler.com/bliki/FeatureToggle.html)
+        * Internal Tests
+        * Refactor
+        * Cleaning
     * A/B Tests
