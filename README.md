@@ -3,10 +3,19 @@
 > The talk about continues delivery for front-end engineers.
 
 ### Outline
-1. Introduction
-    1. What's wrong w/ classical development process
-    1. What's a continues delivery
-1. Continues Delivery Process
+1. Prelude: how did we write software
+    1. Watefall: dev -> integration -> qa -> deploy
+    1. Scrum: short sprints -> qa -> deploy
+    1. Why it sucks?
+        * Long release cycle: 4 releases/year at most
+        * Inability to change: we push features our customers don't need
+        * Lost competition and time to market
+1. Continuous Delivery at Wix
+        * Deployble artifact after every commit
+        * 50-100 deploys/day
+        * Developers deploy into production
+        * CD is a culture/mindset
+1. Let the journey begin
     1. Automation is the key
         * Yeoman: scaffolding generator
         * NPM: private registry available soon
